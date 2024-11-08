@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\Form_validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|e:\\adv .net\\form_validation\\form_validation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|solutionrelative:form_validation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|E:\\Adv .NET\\Form_validation\\form_validation\\views\\student\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|solutionrelative:form_validation\\views\\student\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|E:\\Adv .NET\\Form_validation\\form_validation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|solutionrelative:form_validation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|e:\\adv .net\\form_validation\\form_validation\\models\\customannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2611A74-9CF3-4282-A47D-A3B0291C31B9}|Form_validation\\Form_validation.csproj|solutionrelative:form_validation\\models\\customannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Form_validation\\Form_validation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Form_validation\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Adv .NET\\Form_validation\\Form_validation\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Form_validation\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:23:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Form_validation\\Form_validation\\Views\\Student\\Form.cshtml",
+              "RelativeDocumentMoniker": "Form_validation\\Views\\Student\\Form.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Form_validation\\Form_validation\\Views\\Student\\Form.cshtml",
+              "RelativeToolTip": "Form_validation\\Views\\Student\\Form.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T11:23:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Form_validation\\Form_validation\\Models\\student.cs",
+              "RelativeDocumentMoniker": "Form_validation\\Models\\student.cs",
+              "ToolTip": "E:\\Adv .NET\\Form_validation\\Form_validation\\Models\\student.cs",
+              "RelativeToolTip": "Form_validation\\Models\\student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:38:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customAnnotation.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Form_validation\\Form_validation\\Models\\customAnnotation.cs",
+              "RelativeDocumentMoniker": "Form_validation\\Models\\customAnnotation.cs",
+              "ToolTip": "E:\\Adv .NET\\Form_validation\\Form_validation\\Models\\customAnnotation.cs",
+              "RelativeToolTip": "Form_validation\\Models\\customAnnotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:46:56.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

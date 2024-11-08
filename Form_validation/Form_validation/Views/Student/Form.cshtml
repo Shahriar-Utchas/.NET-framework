@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Form";
+}
+
+<h2>Form</h2>
+<form method="post">
+
+    <input type="text" name="Name" value="@Model.Name" class="form-control" placeholder="Name" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span><br />
+
+    <input type="text" name="ID" value="@Model.ID" class="form-control" placeholder="ID" />
+    <span class="text-danger">@Html.ValidationMessage("ID")</span><br />
+
+    <input type="email" name="Email" value="@Model.Email" class="form-control" placeholder="E-mail" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span><br />
+
+    <input type="date" name="Date" value="@Model.Date" class="form-control" placeholder="Date Of Birth" />
+    <span class="text-danger">@Html.ValidationMessage("date")</span><br />
+
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>
+
+

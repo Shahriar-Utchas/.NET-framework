@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\Value_passing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\models\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\models\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\views\\student\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\views\\student\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Education.cshtml",
+              "RelativeDocumentMoniker": "Value_passing\\Views\\Student\\Education.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Education.cshtml",
+              "RelativeToolTip": "Value_passing\\Views\\Student\\Education.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T04:10:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "degree.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Models\\degree.cs",
+              "RelativeDocumentMoniker": "Value_passing\\Models\\degree.cs",
+              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Models\\degree.cs",
+              "RelativeToolTip": "Value_passing\\Models\\degree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:17:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Value_passing\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Value_passing\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:10:06.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Experience.cshtml",
+              "RelativeDocumentMoniker": "Value_passing\\Views\\Student\\Experience.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Experience.cshtml",
+              "RelativeToolTip": "Value_passing\\Views\\Student\\Experience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T05:06:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "experience.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Models\\experience.cs",
+              "RelativeDocumentMoniker": "Value_passing\\Models\\experience.cs",
+              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Models\\experience.cs",
+              "RelativeToolTip": "Value_passing\\Models\\experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:07:23.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

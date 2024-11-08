@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Education";
+}
+
+<h2>Education</h2>
+@if (TempData["message"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["message"]
+                </div>
+            }
+<table class="table table-bordered">
+    <tr>
+        <th>Degree</th>
+        <th>Institut</th>
+        <th>Year</th>
+        <th>Result</th>
+    </tr>
+    @for(int i =0; i<3; i++)
+            {
+                <tr>
+                    <td>@ViewBag.Degree[i].Degname</td>
+                    <td>@ViewBag.Degree[i].Institution</td>
+                    <td>@ViewBag.Degree[i].year</td>
+                    <td>@ViewBag.Degree[i].result</td>
+                    
+                </tr>
+            }
+
+</table>
+
+

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\Entity_framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|e:\\adv .net\\entity_framework\\entity_framework\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|solutionrelative:entity_framework\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|e:\\adv .net\\entity_framework\\entity_framework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|solutionrelative:entity_framework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|e:\\adv .net\\entity_framework\\entity_framework\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|solutionrelative:entity_framework\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|e:\\adv .net\\entity_framework\\entity_framework\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AE253E-E717-4431-8FAC-A617BCC2C23E}|Entity_framework\\Entity_framework.csproj|solutionrelative:entity_framework\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\EF\\student.cs",
+              "RelativeDocumentMoniker": "Entity_framework\\EF\\student.cs",
+              "ToolTip": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\EF\\student.cs",
+              "RelativeToolTip": "Entity_framework\\EF\\student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:24:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Entity_framework\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Entity_framework\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:34:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Views\\Student\\list.cshtml",
+              "RelativeDocumentMoniker": "Entity_framework\\Views\\Student\\list.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Views\\Student\\list.cshtml",
+              "RelativeToolTip": "Entity_framework\\Views\\Student\\list.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T20:35:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Entity_framework\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Entity_framework\\Entity_framework\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Entity_framework\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T20:42:04.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

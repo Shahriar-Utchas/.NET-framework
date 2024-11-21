@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\EFwithDTO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|e:\\adv .net\\efwithdto\\efwithdto\\views\\department\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|e:\\adv .net\\efwithdto\\efwithdto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|e:\\adv .net\\efwithdto\\efwithdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|e:\\adv .net\\efwithdto\\efwithdto\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|E:\\Adv .NET\\EFwithDTO\\efwithdto\\views\\department\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|E:\\Adv .NET\\EFwithDTO\\efwithdto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|E:\\Adv .NET\\EFwithDTO\\efwithdto\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|e:\\adv .net\\efwithdto\\efwithdto\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|E:\\Adv .NET\\EFwithDTO\\efwithdto\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B388E613-D4C7-48B6-A2A7-00CAA479384D}|EFwithDTO\\EFwithDTO.csproj|solutionrelative:efwithdto\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,29 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EFwithDTO\\Controllers\\DepartmentController.cs",
               "ToolTip": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "EFwithDTO\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwF4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T19:45:15.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "List.cshtml",
               "DocumentMoniker": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Views\\Department\\List.cshtml",
               "RelativeDocumentMoniker": "EFwithDTO\\Views\\Department\\List.cshtml",
               "ToolTip": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Views\\Department\\List.cshtml",
               "RelativeToolTip": "EFwithDTO\\Views\\Department\\List.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T19:53:27.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T19:53:27.231Z"
             },
             {
               "$type": "Document",
@@ -72,21 +71,19 @@
               "RelativeToolTip": "EFwithDTO\\Views\\Department\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T20:27:53.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:27:53.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Views\\Department\\Details.cshtml",
               "RelativeDocumentMoniker": "EFwithDTO\\Views\\Department\\Details.cshtml",
-              "ToolTip": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Views\\Department\\Details.cshtml*",
-              "RelativeToolTip": "EFwithDTO\\Views\\Department\\Details.cshtml*",
+              "ToolTip": "E:\\Adv .NET\\EFwithDTO\\EFwithDTO\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "EFwithDTO\\Views\\Department\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T20:39:00.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:39:00.358Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "EFwithDTO\\Views\\Department\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T20:41:30.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:41:30.28Z"
             }
           ]
         }

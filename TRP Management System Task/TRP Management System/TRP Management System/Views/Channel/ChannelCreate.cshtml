@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "ChannelCreate";
+}
+
+<h2>ChannelCreate</h2>
+
+<form method="post">
+    <input type="text" name="ChannelName" value="@Model.ChannelName" class="form-control" placeholder="Enter Channel Name" />
+    <span class="text-danger">@Html.ValidationMessage("ChannelName")</span>
+    <br />
+    <input type="number" min="1900" name="EstablishYear" class="form-control" placeholder="Enter Establish Year" />
+    <span class="text-danger">@Html.ValidationMessage("EstablishYear")</span>
+    <br />
+    <input type="text" name="Country" value="@Model.Country" class="form-control" placeholder="Enter Country" />
+    <span class="text-danger">@Html.ValidationMessage("Country")</span>
+    <br />
+    <input type="submit" value="Create" class="btn btn-success" />
+    <a href="/Channel/ChannelList" class="btn btn-outline-info">Back</a>
+
+
+</form>
+

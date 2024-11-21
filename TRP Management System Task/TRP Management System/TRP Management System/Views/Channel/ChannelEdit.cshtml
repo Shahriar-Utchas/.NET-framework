@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "ChannelEdit";
+}
+
+<h2>ChannelEdit</h2>
+
+<form method="post">
+    <input type="hidden" name="ChannelId" value="@Model.ChannelId"/>
+    <input type="text" name="ChannelName" value="@Model.ChannelName" class="form-control" placeholder="Enter Channel Name" />
+    <br />
+    <input type="number" min="1900" name="EstablishYear" value="@Model.EstablishYear" class="form-control" placeholder="Enter Establish Year" />
+    <br />
+    <input type="text" name="Country" class="form-control" value="@Model.Country" placeholder="Enter Country" />
+    <br />
+    <input type="submit" value="Submit" class="btn btn-success" />
+    <a href="/Channel/ChannelList" class="btn btn-outline-info">Back</a>
+
+
+</form>

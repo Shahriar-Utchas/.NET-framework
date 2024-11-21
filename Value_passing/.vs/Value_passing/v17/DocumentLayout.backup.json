@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\Value_passing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\models\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|e:\\adv .net\\value_passing\\value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9316280E-3705-4EB3-9574-56EB7854D92E}|Value_passing\\Value_passing.csproj|solutionrelative:value_passing\\views\\student\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Education.cshtml",
               "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Education.cshtml",
               "RelativeDocumentMoniker": "Value_passing\\Views\\Student\\Education.cshtml",
               "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\Views\\Student\\Education.cshtml",
               "RelativeToolTip": "Value_passing\\Views\\Student\\Education.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-08T04:10:33.424Z",
               "EditorCaption": ""
@@ -107,19 +103,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T05:07:23.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\Value_passing\\Value_passing\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "Value_passing\\App_Start\\RouteConfig.cs",
-              "ToolTip": "E:\\Adv .NET\\Value_passing\\Value_passing\\App_Start\\RouteConfig.cs*",
-              "RelativeToolTip": "Value_passing\\App_Start\\RouteConfig.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:18:29.91Z",
               "EditorCaption": ""
             }
           ]

@@ -48,6 +48,39 @@ namespace TRP_Management_System.Models
         }
 
     }
+    public class ProgramUniqueName : ValidationAttribute
+    {
+        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        {
+            if (value == null)
+            {
+                return new ValidationResult("Program Name is Required");
+            }
+            var db = new TRP_Management_SystemEntities();
+            
+            var programName = value.ToString();
+
+                // Retrieve the ChannelId from the object being validated
+                var instance = validationContext.ObjectInstance;
+                var channelIdProperty = validationContext.ObjectType.GetProperty("ChannelId");
+
+                int channelId = (int)channelIdProperty.GetValue(instance);
+
+                // Check if the program exists within the specified channel
+                var valueExist = db.Programs.Any(p => p.ProgramName == programName && p.ChannelId == channelId);
+
+                if (valueExist)
+                {
+                    var errorMessage = "Program Already Exists within the selected Channel.";
+                    return new ValidationResult(errorMessage);
+                }
+            
+
+            // Validation passed
+            return ValidationResult.Success;
+        }
+    }
+
 
 
 }

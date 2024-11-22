@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "ProgramCreate";
+}
+
+<h2>ProgramCreate</h2>
+<form method="post">
+    <span>Choose a specific Channel: </span>
+    <select name="ChannelId" class="form-select">
+        @foreach (var item in ViewBag.Channels)
+        {
+            <option value="@item.ChannelId" class="">@item.ChannelName</option>
+        }
+    </select>
+    <br />
+
+    <input type="text" name="ProgramName" value="@Model.ProgramName" class="form-control" placeholder="Enter Program Name" />
+    <span class="text-danger">@Html.ValidationMessage("ProgramName")</span>
+    <br />
+
+    <input type="number" max="10" name="TRPScore" class="form-control" placeholder="Enter TRP Score" />
+    <span class="text-danger">@Html.ValidationMessage("TRPScore")</span>
+    <br />
+
+    <input type="time" name="AirTime" value="@Model.AirTime" class="form-control" placeholder="Enter Air Time" />
+    <span class="text-danger">@Html.ValidationMessage("ProgramName")</span>
+    <br />
+
+
+    <input type="submit" value="Create" class="btn btn-success" />
+    <a href="/Program/ProgramList" class="btn btn-outline-info">Back</a>
+</form>

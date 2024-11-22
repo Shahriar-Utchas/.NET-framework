@@ -239,6 +239,7 @@
     <Content Include="Views\Channel\ChannelEdit.cshtml" />
     <Content Include="Views\Program\ProgramList.cshtml" />
     <Content Include="Views\Channel\ChannelDelete.cshtml" />
+    <Content Include="Views\Program\ProgramCreate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

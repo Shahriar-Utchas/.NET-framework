@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\models\\customannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\models\\customannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\program\\programcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\programcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\channel\\channelcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\channelcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\channel\\channellist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\channellist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +50,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ProgramController.cs",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "TRP Management System\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:13:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramCreate.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramCreate.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\ProgramCreate.cshtml",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramCreate.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\ProgramCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T04:24:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChannelCreate.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Channel\\ChannelCreate.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\ChannelCreate.cshtml",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Channel\\ChannelCreate.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\ChannelCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:14:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProgramList.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:43:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChannelList.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Channel\\ChannelList.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\ChannelList.cshtml",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Channel\\ChannelList.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\ChannelList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:44:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomAnnotation.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Models\\CustomAnnotation.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Models\\CustomAnnotation.cs",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Models\\CustomAnnotation.cs",
+              "RelativeToolTip": "TRP Management System\\Models\\CustomAnnotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:52:20.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\DTOs\\ProgramDTO.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\DTOs\\ProgramDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\DTOs\\ProgramDTO.cs",
+              "RelativeToolTip": "TRP Management System\\DTOs\\ProgramDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:00:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ChannelController.cs",
               "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
               "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ChannelController.cs",
               "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
               "RelativeToolTip": "TRP Management System\\Controllers\\ChannelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T16:20:44.362Z",
               "EditorCaption": ""

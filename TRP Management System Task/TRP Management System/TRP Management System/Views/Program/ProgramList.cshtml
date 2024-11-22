@@ -24,11 +24,11 @@
             <td>@item.ChannelId</td>
             <td>@item.AirTime</td>
             <td>
-                <a href="/Channel/details/@item.ChannelId" class="btn btn-info">Details</a>
-                <a href="/Channel/ChannelEdit/@item.ChannelId" class="btn btn-warning">Edit</a>
-                <a href="/Channel/ChannelDelete/@item.ChannelId" class="btn btn-danger">Delete</a>
+                <a href="/Program/ProgramEdit/@item.ProgramId" class="btn btn-warning">Edit</a>
+                <a href="/Program/ProgramDelete/@item.ProgramId" class="btn btn-danger">Delete</a>
             </td>
         </tr>
     }
 </table>
 <a href="/Program/ProgramCreate" class="btn btn-outline-info">Create</a>
+<a href="/Channel/ChannelList" class="btn btn-outline-primary">View Channel List</a>

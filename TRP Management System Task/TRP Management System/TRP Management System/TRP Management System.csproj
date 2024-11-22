@@ -240,6 +240,9 @@
     <Content Include="Views\Program\ProgramList.cshtml" />
     <Content Include="Views\Channel\ChannelDelete.cshtml" />
     <Content Include="Views\Program\ProgramCreate.cshtml" />
+    <Content Include="Views\Channel\ProgramDetails.cshtml" />
+    <Content Include="Views\Program\ProgramEdit.cshtml" />
+    <Content Include="Views\Program\ProgramDelete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -27,7 +27,7 @@
             <td>@item.EstablishYear</td>
             <td>@item.Country</td>
             <td>
-                <a href="/Channel/details/@item.ChannelId" class="btn btn-info">Details</a>
+                <a href="/Channel/ProgramDetails/@item.ChannelId" class="btn btn-info">Program Details</a>
                 <a href="/Channel/ChannelEdit/@item.ChannelId" class="btn btn-warning">Edit</a>
                 <a href="/Channel/ChannelDelete/@item.ChannelId" class="btn btn-danger">Delete</a>
             </td>
@@ -35,3 +35,4 @@
     }
 </table>
 <a href="/Channel/Channelcreate" class="btn btn-outline-info">Create</a>
+<a href="/Program/ProgramList" class="btn btn-outline-primary">View All Programs</a>

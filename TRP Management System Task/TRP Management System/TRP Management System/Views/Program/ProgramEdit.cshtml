@@ -1,18 +1,12 @@
 ﻿
 @{
-    ViewBag.Title = "ProgramCreate";
+    ViewBag.Title = "ProgramEdit";
 }
 
-<h2>ProgramCreate</h2>
+<h2>ProgramEdit</h2>
+
 <form method="post">
-    <span>Choose a specific Channel: </span>
-    <select name="ChannelId" class="form-select">
-        @foreach (var item in ViewBag.Channels)
-        {
-            <option value="@item.ChannelId" class="">@item.ChannelName</option>
-        }
-    </select>
-    <br />
+    <input type="hidden" name="ProgramID" value="@Model.ProgramId" />
 
     <input type="text" name="ProgramName" value="@Model.ProgramName" class="form-control" placeholder="Enter Program Name" />
     <span class="text-danger">@Html.ValidationMessage("ProgramName")</span>
@@ -26,7 +20,7 @@
     <span class="text-danger">@Html.ValidationMessage("ProgramName")</span>
     <br />
 
-
-    <input type="submit" value="Create" class="btn btn-success" />
+    <input type="submit" value="Submit" class="btn btn-success" />
     <a href="/Program/ProgramList" class="btn btn-outline-info">Back</a>
+
 </form>

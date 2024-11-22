@@ -115,5 +115,9 @@ namespace TRP_Management_System.Controllers
             } 
                 return RedirectToAction("ChannelList");
         }
+        public ActionResult ProgramDetails(int id) {
+            var programs = db.Programs.Where(x => x.ChannelId == id).ToList();
+            return View(programs);
+        }
     }
 }

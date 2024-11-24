@@ -4,30 +4,66 @@
 }
 
 <h2>ProgramList</h2>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-warning">@TempData["Message"]</div>
+}
+<form method="post" class="d-flex align-items-center gap-2">
+    <label for="channel" class="form-label me-2">Select Channel:</label>
+    <select name="channelId" id="channel" class="form-select w-auto">
+        @foreach (var channel in Model)
+        {
+            <option value="@channel.ChannelId">@channel.ChannelName</option>
+        }
+    </select>
+
+    <input type="submit" value="Filter" class="btn btn-success" />
+</form>
+
+<br />
+
 
 <table class="table table-bordered">
-    <tr>
-        <th>Program ID</th>
-        <th>Program Name</th>
-        <th>TRP Score</th>
-        <th>Channel ID</th>
-        <th>Air Time</th>
-        <th>Action</th>
-
-    </tr>
     @foreach (var item in Model)
     {
         <tr>
-            <td>@item.ProgramId</td>
-            <td>@item.ProgramName</td>
-            <td>@item.TRPScore</td>
-            <td>@item.ChannelId</td>
-            <td>@item.AirTime</td>
-            <td>
-                <a href="/Program/ProgramEdit/@item.ProgramId" class="btn btn-warning">Edit</a>
-                <a href="/Program/ProgramDelete/@item.ProgramId" class="btn btn-danger">Delete</a>
-            </td>
+            <th colspan="5" align="center" class="text-center text-bg-info">@item.ChannelName</th>
         </tr>
+
+        if (item.Programs.Count != 0)
+        {
+            <tr>
+                <th>Program ID</th>
+                <th>Program Name</th>
+                <th>TRP Score</th>
+                <th>Channel ID</th>
+                <th>Air Time</th>
+                <th>Action</th>
+
+            </tr>
+            foreach (var program in item.Programs)
+            {
+
+                <tr>
+                    <td>@program.ProgramId</td>
+                    <td>@program.ProgramName</td>
+                    <td>@program.TRPScore</td>
+                    <td>@program.ChannelId</td>
+                    <td>@program.AirTime</td>
+                    <td>
+                        <a href="/Program/ProgramEdit/@program.ProgramId" class="btn btn-warning">Edit</a>
+                        <a href="/Program/ProgramDelete/@program.ProgramId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" align="center" class="text-center text-bg-danger">No Program Found</td>
+            </tr>
+
+        }
     }
 </table>
 <a href="/Program/ProgramCreate" class="btn btn-outline-info">Create</a>

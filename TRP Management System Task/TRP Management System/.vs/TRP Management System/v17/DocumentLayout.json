@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ProgramController.cs",
               "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs",
               "RelativeToolTip": "TRP Management System\\Controllers\\ProgramController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T04:13:30.893Z",
               "EditorCaption": ""
@@ -40,14 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChannelController.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
-              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ChannelController.cs",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
-              "RelativeToolTip": "TRP Management System\\Controllers\\ChannelController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAIwGEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:11:53.677Z",
+              "Title": "ProgramList.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T04:37:22.696Z",
               "EditorCaption": ""
             }
           ]

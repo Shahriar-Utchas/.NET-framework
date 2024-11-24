@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -46,11 +47,17 @@ namespace TRP_Management_System.Controllers
         }
 
 
-        // GET: Program
+        [HttpGet]
         public ActionResult ProgramList()
         {
-            var programs = db.Programs.ToList();
-            return View(Convert(programs));
+            var channel_list = db.Channels.ToList();
+            return View(channel_list);
+        }
+        [HttpPost]
+        public ActionResult ProgramList(int GivenChannelId)
+        {
+            var filtered_channel = db.Channels.Where(c => c.ChannelId == GivenChannelId).ToList();
+            return View(filtered_channel);
         }
         [HttpGet]
         public ActionResult ProgramCreate()
@@ -81,17 +88,18 @@ namespace TRP_Management_System.Controllers
         {
             if (ModelState.IsValid)
             {
-            var program_find = db.Programs.Find(Program.ProgramId);
-            program_find.ProgramName = Program.ProgramName;
-            program_find.TRPScore = Program.TRPScore;
-            program_find.AirTime = Program.AirTime;
-            db.SaveChanges();
-            return RedirectToAction("ProgramList");
+                var program_find = db.Programs.Find(Program.ProgramId);
+                program_find.ProgramName = Program.ProgramName;
+                program_find.TRPScore = Program.TRPScore;
+                program_find.AirTime = Program.AirTime;
+                db.SaveChanges();
+                return RedirectToAction("ProgramList");
             }
             return View(Program);
         }
         [HttpGet]
-        public ActionResult ProgramDelete(int id) {
+        public ActionResult ProgramDelete(int id)
+        {
             var program = db.Programs.Find(id);
             return View(Convert(program));
         }
@@ -104,8 +112,10 @@ namespace TRP_Management_System.Controllers
                 db.Programs.Remove(program_find);
                 db.SaveChanges();
             }
-                return RedirectToAction("ProgramList");
+            return RedirectToAction("ProgramList");
 
         }
+        
+
     }
 }

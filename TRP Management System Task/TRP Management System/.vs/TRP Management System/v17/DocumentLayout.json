@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "TRP Management System\\Views\\Login\\Login.cshtml",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "TRP Management System\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T16:31:59.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\LoginController.cs",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "TRP Management System\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:28:53.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "loginDTO.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\DTOs\\loginDTO.cs",
-              "RelativeDocumentMoniker": "TRP Management System\\DTOs\\loginDTO.cs",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\DTOs\\loginDTO.cs",
-              "RelativeToolTip": "TRP Management System\\DTOs\\loginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:29:41.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logged.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Auth\\Logged.cs",
-              "RelativeDocumentMoniker": "TRP Management System\\Auth\\Logged.cs",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Auth\\Logged.cs",
-              "RelativeToolTip": "TRP Management System\\Auth\\Logged.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:41:18.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminAccess.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Auth\\AdminAccess.cs",
-              "RelativeDocumentMoniker": "TRP Management System\\Auth\\AdminAccess.cs",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Auth\\AdminAccess.cs",
-              "RelativeToolTip": "TRP Management System\\Auth\\AdminAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:41:33.179Z",
-              "EditorCaption": ""
             }
           ]
         }

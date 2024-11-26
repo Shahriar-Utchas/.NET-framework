@@ -4,11 +4,13 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using TRP_Management_System.Auth;
 using TRP_Management_System.DTOs;
 using TRP_Management_System.EF;
 
 namespace TRP_Management_System.Controllers
 {
+
     public class ProgramController : Controller
     {
         TRP_Management_SystemEntities db = new TRP_Management_SystemEntities();
@@ -48,6 +50,7 @@ namespace TRP_Management_System.Controllers
 
 
         [HttpGet]
+        [Logged]
         public ActionResult ProgramList()
         {
             var channel_list = db.Channels.ToList();
@@ -83,6 +86,7 @@ namespace TRP_Management_System.Controllers
             return View(Program);
         }
         [HttpGet]
+        [AdminAccess]
         public ActionResult ProgramEdit(int id)
         {
             var Program = db.Programs.Find(id);

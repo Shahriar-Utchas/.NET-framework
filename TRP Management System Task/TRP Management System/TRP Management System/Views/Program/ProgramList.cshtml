@@ -9,6 +9,7 @@
     <div class="alert alert-warning">@TempData["Message"]</div>
 }
 <form method="post" class="d-flex align-items-center gap-2">
+    <input type="hidden" name="formType" value="filter" />
     <label for="channel" class="form-label me-2">Select Channel:</label>
     <select name="Id" id="channel" class="form-select w-auto">
         <option selected disabled>---Channel---</option>
@@ -20,9 +21,18 @@
             </option>
         }
     </select>
+    <input type="hidden" name="searchByTRP" value="0" />
 
     <input type="submit" value="Filter" class="btn btn-success" />
 </form>
+   <br />
+   <form method="post" class="d-flex align-items-center gap-2">
+       <input type="hidden" name="formType" value="search" />
+       <input type="text" name="searchByTRP" placeholder="Search Program By TRP Score" class="form-control" />
+       <input type="hidden" name="Id" value="0" />
+       <input type="submit" value="Search" class="btn btn-primary" />
+   </form>
+    
 
 <br />
 

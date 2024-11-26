@@ -58,15 +58,48 @@ namespace TRP_Management_System.Controllers
             return View(channel_list);
         }
         [HttpPost]
-        public ActionResult ProgramList(int Id)
+        public ActionResult ProgramList(string formType, int Id = 0, int searchByTRP = 0)
         {
-            var filtered_channel = (from item in db.Channels
-                                    where item.ChannelId == Id
-                                    select item).ToList();
-            ViewBag.SelectedChannelId = Id;
+            if (formType == "filter" && Id != 0)
+            {
+                var filtered_channel = (from item in db.Channels
+                                        where item.ChannelId == Id
+                                        select item).ToList();
+                ViewBag.SelectedChannelId = Id;
+                ViewBag.Channels = db.Channels.ToList();
+                return View(filtered_channel);
+            }
+            else if (formType == "search" && searchByTRP != 0)
+            {
+                var search_Prog_result = (from item in db.Programs
+                                          where item.TRPScore == searchByTRP
+                                          select item).ToList();
+                var progIDs = search_Prog_result.Select(x => x.ProgramId).ToList();
+
+                List<Channel> searchChannelResults = new List<Channel>();
+                foreach (var progId in progIDs)
+                {
+                    var channel = (from ch in db.Channels
+                                   where ch.ChannelId == progId
+                                   select ch).FirstOrDefault();
+
+                    if (channel != null)
+                    {
+                        searchChannelResults.Add(channel);
+                    }
+                }
+
+                ViewBag.SelectedChannelId = Id;
+                ViewBag.Channels = db.Channels.ToList();
+                return View(searchChannelResults);
+            }
+
+            var channel_list = db.Channels.ToList();
             ViewBag.Channels = db.Channels.ToList();
-            return View(filtered_channel);
+            return View(channel_list);
         }
+
+
         [HttpGet]
         public ActionResult ProgramCreate()
         {
@@ -124,7 +157,8 @@ namespace TRP_Management_System.Controllers
             return RedirectToAction("ProgramList");
 
         }
-        
+
+
 
     }
 }

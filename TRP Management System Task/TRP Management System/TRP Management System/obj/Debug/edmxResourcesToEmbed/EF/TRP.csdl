@@ -40,5 +40,16 @@
       <End Role="Channel" EntitySet="Channels" />
       <End Role="Program" EntitySet="Programs" />
     </AssociationSet>
+    <EntitySet Name="logins" EntityType="Model.login" />
   </EntityContainer>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="User" />
+      <PropertyRef Name="Pass" />
+      <PropertyRef Name="Role" />
+    </Key>
+    <Property Name="User" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Pass" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Role" Type="Int32" Nullable="false" />
+  </EntityType>
 </Schema>

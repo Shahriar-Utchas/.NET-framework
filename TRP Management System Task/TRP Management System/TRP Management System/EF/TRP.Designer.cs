@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\shutc\source\repos\TRP Management System\TRP Management System\EF\TRP.edmx'. 
+﻿// T4 code generation is enabled for model 'E:\Adv .NET\TRP Management System Task\TRP Management System\TRP Management System\EF\TRP.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

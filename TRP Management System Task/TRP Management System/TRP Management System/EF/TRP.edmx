@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Channel">
           <Key>
             <PropertyRef Name="ChannelId" />
@@ -13,6 +13,18 @@
           <Property Name="ChannelName" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="EstablishYear" Type="int" Nullable="false" />
           <Property Name="Country" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'TRP Management System.dbo.login' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="login">
+          <Key>
+            <PropertyRef Name="User" />
+            <PropertyRef Name="Pass" />
+            <PropertyRef Name="Role" />
+          </Key>
+          <Property Name="User" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Pass" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Role" Type="int" Nullable="false" />
         </EntityType>
         <EntityType Name="Program">
           <Key>
@@ -39,13 +51,19 @@
         <EntityContainer Name="ModelStoreContainer">
           <EntitySet Name="Channel" EntityType="Self.Channel" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Program" EntityType="Self.Program" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="login" EntityType="Self.login" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [login].[User] AS [User], 
+    [login].[Pass] AS [Pass], 
+    [login].[Role] AS [Role]
+    FROM [dbo].[login] AS [login]</DefiningQuery>
+          </EntitySet>
           <AssociationSet Name="FK_Program_Channel" Association="Self.FK_Program_Channel">
             <End Role="Channel" EntitySet="Channel" />
             <End Role="Program" EntitySet="Program" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -89,7 +107,18 @@
             <End Role="Channel" EntitySet="Channels" />
             <End Role="Program" EntitySet="Programs" />
           </AssociationSet>
+          <EntitySet Name="logins" EntityType="Model.login" />
         </EntityContainer>
+        <EntityType Name="login">
+          <Key>
+            <PropertyRef Name="User" />
+            <PropertyRef Name="Pass" />
+            <PropertyRef Name="Role" />
+          </Key>
+          <Property Name="User" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Pass" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Role" Type="Int32" Nullable="false" />
+        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -114,6 +143,15 @@
                 <ScalarProperty Name="TRPScore" ColumnName="TRPScore" />
                 <ScalarProperty Name="ChannelId" ColumnName="ChannelId" />
                 <ScalarProperty Name="AirTime" ColumnName="AirTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="logins">
+            <EntityTypeMapping TypeName="Model.login">
+              <MappingFragment StoreEntitySet="login">
+                <ScalarProperty Name="Role" ColumnName="Role" />
+                <ScalarProperty Name="Pass" ColumnName="Pass" />
+                <ScalarProperty Name="User" ColumnName="User" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

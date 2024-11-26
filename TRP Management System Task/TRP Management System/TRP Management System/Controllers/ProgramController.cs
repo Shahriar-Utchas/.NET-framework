@@ -51,12 +51,17 @@ namespace TRP_Management_System.Controllers
         public ActionResult ProgramList()
         {
             var channel_list = db.Channels.ToList();
+            ViewBag.Channels = db.Channels.ToList();
             return View(channel_list);
         }
         [HttpPost]
-        public ActionResult ProgramList(int GivenChannelId)
+        public ActionResult ProgramList(int Id)
         {
-            var filtered_channel = db.Channels.Where(c => c.ChannelId == GivenChannelId).ToList();
+            var filtered_channel = (from item in db.Channels
+                                    where item.ChannelId == Id
+                                    select item).ToList();
+            ViewBag.SelectedChannelId = Id;
+            ViewBag.Channels = db.Channels.ToList();
             return View(filtered_channel);
         }
         [HttpGet]

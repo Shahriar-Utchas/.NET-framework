@@ -10,10 +10,14 @@
 }
 <form method="post" class="d-flex align-items-center gap-2">
     <label for="channel" class="form-label me-2">Select Channel:</label>
-    <select name="channelId" id="channel" class="form-select w-auto">
-        @foreach (var channel in Model)
+    <select name="Id" id="channel" class="form-select w-auto">
+        <option selected disabled>---Channel---</option>
+        @foreach (var channel in ViewBag.Channels)
         {
-            <option value="@channel.ChannelId">@channel.ChannelName</option>
+            @*<option value="@channel.ChannelId">@channel.ChannelName</option>*@
+            <option value="@channel.ChannelId" @(channel.ChannelId == ViewBag.SelectedChannelId ? "selected" : "")>
+                @channel.ChannelName
+            </option>
         }
     </select>
 

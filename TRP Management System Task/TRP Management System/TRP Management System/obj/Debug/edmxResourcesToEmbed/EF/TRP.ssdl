@@ -9,6 +9,18 @@
     <Property Name="EstablishYear" Type="int" Nullable="false" />
     <Property Name="Country" Type="varchar" MaxLength="50" Nullable="false" />
   </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TRP Management System.dbo.login' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="User" />
+      <PropertyRef Name="Pass" />
+      <PropertyRef Name="Role" />
+    </Key>
+    <Property Name="User" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pass" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Role" Type="int" Nullable="false" />
+  </EntityType>
   <EntityType Name="Program">
     <Key>
       <PropertyRef Name="ProgramId" />
@@ -34,6 +46,13 @@
   <EntityContainer Name="ModelStoreContainer">
     <EntitySet Name="Channel" EntityType="Self.Channel" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Program" EntityType="Self.Program" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="login" EntityType="Self.login" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [login].[User] AS [User], 
+    [login].[Pass] AS [Pass], 
+    [login].[Role] AS [Role]
+    FROM [dbo].[login] AS [login]</DefiningQuery>
+    </EntitySet>
     <AssociationSet Name="FK_Program_Channel" Association="Self.FK_Program_Channel">
       <End Role="Channel" EntitySet="Channel" />
       <End Role="Program" EntitySet="Program" />

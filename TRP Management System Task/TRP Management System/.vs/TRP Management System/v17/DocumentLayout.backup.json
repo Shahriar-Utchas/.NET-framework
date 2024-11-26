@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|e:\\adv .net\\trp management system task\\trp management system\\trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{352AD4B4-8BA7-4C78-8761-031442AA033C}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ProgramController.cs",
               "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs*",
               "RelativeToolTip": "TRP Management System\\Controllers\\ProgramController.cs*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAcwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T18:46:52.358Z",
               "EditorCaption": ""
@@ -47,12 +47,11 @@
               "Title": "ProgramList.cshtml",
               "DocumentMoniker": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
               "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
-              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml*",
-              "RelativeToolTip": "TRP Management System\\Views\\Program\\ProgramList.cshtml*",
+              "ToolTip": "E:\\Adv .NET\\TRP Management System Task\\TRP Management System\\TRP Management System\\Views\\Program\\ProgramList.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\ProgramList.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T18:57:31.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T18:57:31.361Z"
             },
             {
               "$type": "Document",

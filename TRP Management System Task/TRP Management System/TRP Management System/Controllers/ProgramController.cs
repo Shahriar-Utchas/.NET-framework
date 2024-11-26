@@ -58,7 +58,7 @@ namespace TRP_Management_System.Controllers
             return View(channel_list);
         }
         [HttpPost]
-        public ActionResult ProgramList(string formType, int Id = 0, int searchByTRP = 0)
+        public ActionResult ProgramList(string formType, int Id, int searchByTRP)
         {
             if (formType == "filter" && Id != 0)
             {
@@ -74,13 +74,15 @@ namespace TRP_Management_System.Controllers
                 var search_Prog_result = (from item in db.Programs
                                           where item.TRPScore == searchByTRP
                                           select item).ToList();
-                var progIDs = search_Prog_result.Select(x => x.ProgramId).ToList();
+                var chennelIDs = (from item in db.Programs
+                              where item.TRPScore == searchByTRP
+                              select item.ChannelId).ToList();
 
                 List<Channel> searchChannelResults = new List<Channel>();
-                foreach (var progId in progIDs)
+                foreach (var ChannelId in chennelIDs)
                 {
                     var channel = (from ch in db.Channels
-                                   where ch.ChannelId == progId
+                                   where ch.ChannelId == ChannelId
                                    select ch).FirstOrDefault();
 
                     if (channel != null)

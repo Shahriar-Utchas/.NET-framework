@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "CreateCampain";
+}
+
+<h2>CreateCampain</h2>
+@if (TempData["campMsg"] != null)
+{
+    <span class="text-success">@TempData["campMsg"]</span>
+}
+<form method="post">
+    <input type="text" name="campName" class="form-control" value="@Model.campName" placeholder="Enter Campain Name for donation" />
+    <span class="text-danger">@Html.ValidationMessage("campName")</span>
+    <br />
+    <input type="text" name="Desc" class="form-control" value="@Model.Desc" placeholder="Enter Campain Description" />
+    <span class="text-danger">@Html.ValidationMessage("Desc")</span>
+    <br />
+    <input type="submit" class="btn btn-outline-primary" value="Create" />
+    <a href="/User/DonationPage" class="btn btn-outline-info">Check Campains</a>
+
+</form>
+

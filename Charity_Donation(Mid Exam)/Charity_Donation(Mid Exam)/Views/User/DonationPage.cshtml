@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "DonationPage";
+}
+
+<h2>DonationPage</h2>
+@if (TempData["DonMsg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["DonMsg"]
+    </div>
+
+}
+<table class="table table-bordered">
+    <tr>
+        <th>Donation Name</th>
+        <th>Description</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.campName</td>
+            <td>@item.Desc</td>
+            <td>
+                <a href="/User/donate/@item.CampainID" class="btn btn-info">Donate</a>
+            </td>
+        </tr>
+    }
+</table>
+<a href="/User/TrackDonations" class="btn btn-outline-info">Track Your Donation</a>
+
+

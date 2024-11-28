@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "TrackDonations";
+}
+
+<h2>TrackDonations</h2>
+
+<table class="table table-bordered">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th colspan="5" align="center" class="text-center text-bg-info">@item.campName</th>
+        </tr>
+
+        if (item.Donations.Count != 0)
+        {
+            <tr>
+                <th>Donor ID</th>
+                <th>Amount</th>
+                <th>Date</th>
+            </tr>
+            foreach (var program in item.Donations)
+            {
+
+                <tr>
+                    <td>@program.DonorID</td>
+                    <td>@program.Amount</td>
+                    <td>@program.Date</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" align="center" class="text-center text-bg-danger">No Donations Found</td>
+            </tr>
+
+        }
+    }
+</table>
+<a href="/User/DonationPage" class="btn btn-outline-info">GO to Donate</a>

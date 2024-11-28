@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\views\\user\\donationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\views\\user\\donationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\views\\user\\trackdonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\views\\user\\trackdonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\views\\user\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\views\\user\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\views\\admin\\createcampain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\views\\admin\\createcampain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|e:\\adv .net\\charity_donation(mid exam)\\charity_donation(mid exam)\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A162E04-7BC3-49E1-9168-A0DE516AC96B}|Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam).csproj|solutionrelative:charity_donation(mid exam)\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:00:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:00:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCampain.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\Admin\\CreateCampain.cshtml",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Views\\Admin\\CreateCampain.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\Admin\\CreateCampain.cshtml",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Views\\Admin\\CreateCampain.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:00:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Views\\Login\\Register.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:01:01.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Donate.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\Donate.cshtml",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Views\\User\\Donate.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\Donate.cshtml",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Views\\User\\Donate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:02:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackDonations.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\TrackDonations.cshtml",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Views\\User\\TrackDonations.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\TrackDonations.cshtml",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Views\\User\\TrackDonations.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:02:57.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationPage.cshtml",
+              "DocumentMoniker": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\DonationPage.cshtml",
+              "RelativeDocumentMoniker": "Charity_Donation(Mid Exam)\\Views\\User\\DonationPage.cshtml",
+              "ToolTip": "E:\\Adv .NET\\Charity_Donation(Mid Exam)\\Charity_Donation(Mid Exam)\\Views\\User\\DonationPage.cshtml",
+              "RelativeToolTip": "Charity_Donation(Mid Exam)\\Views\\User\\DonationPage.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:03:56.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

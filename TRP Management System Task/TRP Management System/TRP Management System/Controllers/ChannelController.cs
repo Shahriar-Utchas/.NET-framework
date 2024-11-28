@@ -12,16 +12,16 @@ namespace TRP_Management_System.Controllers
     {
         TRP_Management_SystemEntities db = new TRP_Management_SystemEntities();
 
-        public static Channel Convert(ChannelDTO channelDTO)
-        {
-            return new Channel
+            public static Channel Convert(ChannelDTO channelDTO)
             {
-                ChannelId = channelDTO.ChannelId,
-                ChannelName = channelDTO.ChannelName,
-                EstablishYear = channelDTO.EstablishYear,
-                Country = channelDTO.Country
-            };
-        }
+                return new Channel
+                {
+                    ChannelId = channelDTO.ChannelId,
+                    ChannelName = channelDTO.ChannelName,
+                    EstablishYear = channelDTO.EstablishYear,
+                    Country = channelDTO.Country
+                };
+            }
         public static ChannelDTO Convert(Channel channel)
         {
             return new ChannelDTO

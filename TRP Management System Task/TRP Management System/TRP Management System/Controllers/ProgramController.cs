@@ -47,8 +47,6 @@ namespace TRP_Management_System.Controllers
             }
             return ProgramDTOs;
         }
-
-
         [HttpGet]
         [Logged]
         public ActionResult ProgramList()

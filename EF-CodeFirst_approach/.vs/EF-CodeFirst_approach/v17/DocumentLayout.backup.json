@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\EF-CodeFirst_approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|e:\\adv .net\\ef-codefirst_approach\\ef-codefirst_approach\\migrations\\202412201317319_add_fornkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|solutionrelative:ef-codefirst_approach\\migrations\\202412201317319_add_fornkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|e:\\adv .net\\ef-codefirst_approach\\ef-codefirst_approach\\ef\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|solutionrelative:ef-codefirst_approach\\ef\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|e:\\adv .net\\ef-codefirst_approach\\ef-codefirst_approach\\ef\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|solutionrelative:ef-codefirst_approach\\ef\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|e:\\adv .net\\ef-codefirst_approach\\ef-codefirst_approach\\ef\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|solutionrelative:ef-codefirst_approach\\ef\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|e:\\adv .net\\ef-codefirst_approach\\ef-codefirst_approach\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11DC98-5C81-46F6-ACE6-E7DD18EEEEC4}|EF-CodeFirst_approach\\EF-CodeFirst_approach.csproj|solutionrelative:ef-codefirst_approach\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst_approach\\EF\\UMSContext.cs",
+              "ToolTip": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\UMSContext.cs",
+              "RelativeToolTip": "EF-CodeFirst_approach\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:38:23.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst_approach\\EF\\Model\\Student.cs",
+              "ToolTip": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Student.cs",
+              "RelativeToolTip": "EF-CodeFirst_approach\\EF\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:39:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst_approach\\EF\\Model\\Department.cs",
+              "ToolTip": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Department.cs",
+              "RelativeToolTip": "EF-CodeFirst_approach\\EF\\Model\\Department.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:40:02.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst_approach\\EF\\Model\\Course.cs",
+              "ToolTip": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\EF\\Model\\Course.cs",
+              "RelativeToolTip": "EF-CodeFirst_approach\\EF\\Model\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:40:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202412201317319_add_fornKey.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\Migrations\\202412201317319_add_fornKey.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst_approach\\Migrations\\202412201317319_add_fornKey.cs",
+              "ToolTip": "E:\\Adv .NET\\EF-CodeFirst_approach\\EF-CodeFirst_approach\\Migrations\\202412201317319_add_fornKey.cs",
+              "RelativeToolTip": "EF-CodeFirst_approach\\Migrations\\202412201317319_add_fornKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:17:36.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

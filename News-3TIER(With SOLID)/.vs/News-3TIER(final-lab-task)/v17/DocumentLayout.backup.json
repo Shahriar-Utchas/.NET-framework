@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\News-3TIER(With SOLID)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EAC69B-ECE2-42D2-A989-6D586CA74CFB}|BLL\\BLL.csproj|E:\\Adv .NET\\News-3TIER(With SOLID)\\bll\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EAC69B-ECE2-42D2-A989-6D586CA74CFB}|BLL\\BLL.csproj|solutionrelative:bll\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2A8A02-EBC4-4120-8789-75AD42F0040C}|News-3TIER(final-lab-task)\\News-3TIER(final-lab-task).csproj|e:\\adv .net\\news-3tier(with solid)\\news-3tier(final-lab-task)\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2A8A02-EBC4-4120-8789-75AD42F0040C}|News-3TIER(final-lab-task)\\News-3TIER(final-lab-task).csproj|solutionrelative:news-3tier(final-lab-task)\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|E:\\Adv .NET\\News-3TIER(With SOLID)\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|E:\\Adv .NET\\News-3TIER(With SOLID)\\dal\\repos\\newsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\newsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|E:\\Adv .NET\\News-3TIER(With SOLID)\\dal\\interfaces\\inewsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F923EF09-0EF2-4094-9CAF-CC454D4AAF73}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\inewsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\News-3TIER(With SOLID)\\BLL\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NewsService.cs",
+              "ToolTip": "E:\\Adv .NET\\News-3TIER(With SOLID)\\BLL\\Services\\NewsService.cs",
+              "RelativeToolTip": "BLL\\Services\\NewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:40:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\News-3TIER(With SOLID)\\News-3TIER(final-lab-task)\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "News-3TIER(final-lab-task)\\Controllers\\NewsController.cs",
+              "ToolTip": "E:\\Adv .NET\\News-3TIER(With SOLID)\\News-3TIER(final-lab-task)\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "News-3TIER(final-lab-task)\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:55:10.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INewsRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\Interfaces\\INewsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\INewsRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\Interfaces\\INewsRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\INewsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:36:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\Repos\\NewsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\NewsRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\Repos\\NewsRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\NewsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:22:32.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "E:\\Adv .NET\\News-3TIER(With SOLID)\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:49:23.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

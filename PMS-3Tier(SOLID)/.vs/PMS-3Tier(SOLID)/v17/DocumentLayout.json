@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|e:\\adv .net\\pms-3tier(solid)\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB58D02E-A906-466B-9762-7386A19E8F61}|PMS-3Tier(SOLID)\\PMS-3Tier(SOLID).csproj|e:\\adv .net\\pms-3tier(solid)\\pms-3tier(solid)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB58D02E-A906-466B-9762-7386A19E8F61}|PMS-3Tier(SOLID)\\PMS-3Tier(SOLID).csproj|solutionrelative:pms-3tier(solid)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB58D02E-A906-466B-9762-7386A19E8F61}|PMS-3Tier(SOLID)\\PMS-3Tier(SOLID).csproj|e:\\adv .net\\pms-3tier(solid)\\pms-3tier(solid)\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB58D02E-A906-466B-9762-7386A19E8F61}|PMS-3Tier(SOLID)\\PMS-3Tier(SOLID).csproj|solutionrelative:pms-3tier(solid)\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1499A0E5-E453-4B8F-B2A2-E7EE1AC64025}|BLL\\BLL.csproj|e:\\adv .net\\pms-3tier(solid)\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1499A0E5-E453-4B8F-B2A2-E7EE1AC64025}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|e:\\adv .net\\pms-3tier(solid)\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|e:\\adv .net\\pms-3tier(solid)\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0348BAD-417B-4F7F-9BB6-FD346753189D}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\PMS-3Tier(SOLID)\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PMS-3Tier(SOLID)\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\PMS-3Tier(SOLID)\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PMS-3Tier(SOLID)\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:34:24.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:03:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:12:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:13:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:23:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\PMS-3Tier(SOLID)\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PMS-3Tier(SOLID)\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Adv .NET\\PMS-3Tier(SOLID)\\PMS-3Tier(SOLID)\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PMS-3Tier(SOLID)\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:03:07.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

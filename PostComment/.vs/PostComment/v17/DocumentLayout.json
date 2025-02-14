@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .NET\\PostComment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|e:\\adv .net\\postcomment\\postcomment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|solutionrelative:postcomment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|e:\\adv .net\\postcomment\\postcomment\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|solutionrelative:postcomment\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|E:\\Adv .NET\\PostComment\\postcomment\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|solutionrelative:postcomment\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|E:\\Adv .NET\\PostComment\\postcomment\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|solutionrelative:postcomment\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|e:\\adv .net\\postcomment\\dal\\interfaces\\itokenfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\itokenfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|e:\\adv .net\\postcomment\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|e:\\adv .net\\postcomment\\dal\\migrations\\202502140607535_addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202502140607535_addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|e:\\adv .net\\postcomment\\dal\\migrations\\202502131829164_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202502131829164_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\dtos\\postcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\postcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|E:\\Adv .NET\\PostComment\\bll\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A79984F-E6ED-4F09-8F9C-E71144618A8F}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|E:\\Adv .NET\\PostComment\\postcomment\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7FF78-B044-4902-8563-9DB2C5C466C4}|PostComment\\PostComment.csproj|solutionrelative:postcomment\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\ef\\tables\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\ef\\postcmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\postcmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\ef\\tables\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\repos\\repodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\ef\\tables\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|E:\\Adv .NET\\PostComment\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B2C222-D66E-4572-888F-AAEECB628745}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:09:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:59:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenFeatures.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\ITokenFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ITokenFeatures.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\ITokenFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ITokenFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:14:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\PostComment\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "PostComment\\Auth\\Logged.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\PostComment\\Auth\\Logged.cs",
+              "RelativeToolTip": "PostComment\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:43:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\PostComment\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PostComment\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\PostComment\\Models\\LoginModel.cs",
+              "RelativeToolTip": "PostComment\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:25:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PostComment\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PostComment\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:24:06.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PostComment\\Controllers\\PostController.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PostComment\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:21:27.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuth.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:47:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:50:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:48:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:54:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\CommentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CommentRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\CommentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CommentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:45:01.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\PostRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PostRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\PostRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PostRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:44:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:21:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202502140607535_AddToken.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\202502140607535_AddToken.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202502140607535_AddToken.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\202502140607535_AddToken.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202502140607535_AddToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:21:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202502131829164_initDB.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\202502131829164_initDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202502131829164_initDB.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Migrations\\202502131829164_initDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202502131829164_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:21:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PostService.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\Services\\PostService.cs",
+              "RelativeToolTip": "BLL\\Services\\PostService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:44:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CommentService.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\Services\\CommentService.cs",
+              "RelativeToolTip": "BLL\\Services\\CommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:44:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:38:02.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:20:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PostDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:37:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostCommentDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\PostCommentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PostCommentDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\PostCommentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PostCommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:38:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CommentDTO.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\BLL\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CommentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:37:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "PostComment\\Controllers\\CommentController.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\PostComment\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "PostComment\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:49:51.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Token.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Token.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Token.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:04:27.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "postCmtContext.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\EF\\postCmtContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\postCmtContext.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\EF\\postCmtContext.cs",
+              "RelativeToolTip": "DAL\\EF\\postCmtContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:06:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Post.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Post.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Post.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Post.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:38:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-13T19:57:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepoDB.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\RepoDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RepoDB.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\Repos\\RepoDB.cs",
+              "RelativeToolTip": "DAL\\Repos\\RepoDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:46:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Comment.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Comment.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\Comment.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Comment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:40:31.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "E:\\Adv .NET\\PostComment\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:38:25.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
